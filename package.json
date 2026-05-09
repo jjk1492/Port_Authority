@@ -1,0 +1,14 @@
+{
+  "name": "port-authority",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "vitest": "2.1.9"
+  }
+}
